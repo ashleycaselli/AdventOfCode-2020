@@ -6,7 +6,7 @@ public class Utils {
         System.out.println("********** " + day + " **********");
         System.out.println("SOLUTION 1: " + solutionPart1);
         System.out.println("SOLUTION 2: " + solutionPart2);
-        System.out.println("===========================");
+        System.out.println("===========================\n");
     }
 
 }
